@@ -16,4 +16,4 @@ Improves maintainability and scalability
 
 Often used with Redux Toolkit to reduce boilerplate
 
-Ideal when multiple components share frequent state updates
+Ideal when multiple components share frequent state Updates
