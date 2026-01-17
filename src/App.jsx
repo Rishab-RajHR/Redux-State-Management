@@ -1,11 +1,12 @@
 import React from 'react'
-import Home from './components/Home'
+import './App.css'
+import HomeContainer from './containers/HomeContainer'
 
 const App = () => {
   return (
     <div>
       <h2>This is App.jsx File</h2>
-      <Home />
+      <HomeContainer />
     </div>
   )
 }
